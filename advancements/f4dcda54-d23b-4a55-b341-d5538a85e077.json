@@ -1031,6 +1031,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-11-30 18:23:47 +0800"
@@ -1405,6 +1411,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-02-22 02:53:18 +0800"
@@ -1567,6 +1579,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2019-11-30 18:24:47 +0800"
@@ -1576,6 +1594,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-02-22 02:53:18 +0800"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
     },
     "done": true
   },
@@ -2123,6 +2147,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2019-12-07 13:09:32 +0800"
@@ -2168,6 +2198,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-11-30 18:24:47 +0800"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
     },
     "done": true
   },
@@ -2249,6 +2285,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-02-22 02:53:18 +0800"
@@ -2306,6 +2348,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2021-02-22 02:53:18 +0800"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
     },
     "done": true
   },
@@ -2396,6 +2444,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-02-22 02:53:18 +0800"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
     },
     "done": true
   },
@@ -2864,6 +2918,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2019-11-30 20:58:13 +0800"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
     },
     "done": true
   },
@@ -5006,6 +5066,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2020-06-28 03:02:42 +0800"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:11:23 +0800"
     },
     "done": true
   },

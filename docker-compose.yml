@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  mc:
+    image: itzg/minecraft-server
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: "PURPUR"
+      WHITELIST: "f4dcda54d23b4a55b341d5538a85e077"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      - ./minecraft-data:/data

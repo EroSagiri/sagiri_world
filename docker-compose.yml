@@ -9,6 +9,7 @@ services:
       EULA: "TRUE"
       TYPE: "PURPUR"
       WHITELIST: "f4dcda54d23b4a55b341d5538a85e077"
+      OPS: "f4dcda54d23b4a55b341d5538a85e077"
     tty: true
     stdin_open: true
     restart: unless-stopped
